@@ -1,0 +1,9 @@
+1 - a-) Uma função é um conjunto de ações em sequência a serem executadas.
+b-) A vantagem é evitar repetições, deixar o programa modularizado e organizado.
+c-) Para as funções se comunicarem e usarem variáveis entre si.
+d-) funcao(){}
+    funcao(tipo parametro1, tipo parametro2){}
+e-)Parâmetro cria uma nova variável com o valor da variável.
+   Referência cria uma nova variável com o endereço de memória da variável original.
+f-)Variáveis locais.
+
